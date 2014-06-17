@@ -1,6 +1,6 @@
 {
-  "name": "<%= _.slugify(appname) %>",
-  "version": "<%= version %>",
+  "name": "<$= _.slugify(appname) $>",
+  "version": "<$= version $>",
   "private" : true,
   "dependencies" : {}
 }

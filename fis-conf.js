@@ -1,1 +1,1 @@
-fis.olpm('<%= code %>');
+fis.olpm('<$= code $>');
