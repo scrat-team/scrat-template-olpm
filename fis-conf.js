@@ -1,0 +1,1 @@
+fis.olpm('<%= code %>');
